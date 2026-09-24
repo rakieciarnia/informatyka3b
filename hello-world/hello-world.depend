@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1788469285 source:/home/rakieciarnia/projects/hello-world/main.cpp
+	<iostream>
+
