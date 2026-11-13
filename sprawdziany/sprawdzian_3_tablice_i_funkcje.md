@@ -49,6 +49,12 @@ Wyobraź sobie przekątną biegnącą od lewego górnego rogu tablicy do prawego
 - Podziel program na funkcje (osobna funkcja do wyświetlania tablicy i osobna funkcja sprawdzająca warunek symetrii).
 - Wyświetl tablicę w konsoli oraz wypisz jednoznaczny komunikat, czy jest ona symetryczna.
 
+**Modyfikacja na ocenę 3:**
+Sprawdź symetryczność elementów względem środka tablicy jednowymiarowej np.
+```text
+1  5  6  0  6  5  1
+```
+
 ---
 
 ### Zadanie 3\*
